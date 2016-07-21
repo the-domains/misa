@@ -1,0 +1,14 @@
+layout_spectrum: 0.1455588990356773
+typography_spectrum: 0.40911217499524355
+color:
+  brandStrength: 0.1742381874937564
+  lightness: 0.38667132519185543
+  saturation: 0.4865364006254822
+  rhythmicContrast: 0.17898206412792206
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: misa
