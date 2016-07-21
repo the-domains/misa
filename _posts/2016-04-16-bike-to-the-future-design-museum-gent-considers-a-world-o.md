@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-07-21T12:27:44.545Z'
+datePublished: '2016-07-21T12:38:34.571Z'
 sourcePath: _posts/2016-04-16-bike-to-the-future-design-museum-gent-considers-a-world-o.md
 inFeed: true
-isBasedOnUrl: 'http://www.wallpaper.com/design/cycling-our-way-to-the-future'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - bike
   - gent
@@ -20,7 +19,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-21T12:27:43.534Z'
+dateModified: '2016-07-21T12:38:34.065Z'
 title: >-
   'Bike to the Future': Design Museum Gent considers a world of two-wheeled
   design.
@@ -42,6 +41,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: bike-to-the-future-design-museum-gent-considers-a-world-o/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
