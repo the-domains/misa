@@ -6,9 +6,9 @@ color:
   saturation: 0.4865364006254822
   rhythmicContrast: 0.17898206412792206
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: misa
