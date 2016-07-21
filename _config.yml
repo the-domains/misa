@@ -12,3 +12,8 @@ color:
     - '#6B574B'
     - '#160600'
 name: misa
+navigation:
+  - id: abc6a628-b0e7-4c70-ad03-2f769539466c
+    url: 2016-04-16-bike-to-the-future-design-museum-gent-considers-a-world-o.html
+    name: Biking
+    type: content
